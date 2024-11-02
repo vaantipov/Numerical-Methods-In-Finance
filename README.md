@@ -18,7 +18,7 @@ involve sampling from a joint multidimensional distribution of underlying assets
 
 ## References
 
-1. Jaeckel, Peter. Monte Carlo methods in finance. (2002).
+1. Jäckel, Peter. Monte Carlo methods in finance. (2002).
    
 2. Jäckel, Peter. Clamping Down on Arbitrage. *Wilmott* 2014: 54–69.
 
