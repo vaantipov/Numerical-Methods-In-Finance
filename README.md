@@ -1,6 +1,6 @@
 # Numerical-Methods-In-Finance
 
-The selected seminars on the course ***Numerical Methods in Finance*** (2024) taught at the Lomonosv Moscow State University under the Vega Institute Foundation program. 
+The selected seminars on the course ***Numerical Methods in Finance*** (2024) taught at Lomonosv Moscow State University under Vega Institute Foundation program. 
 
 ## Description
 
