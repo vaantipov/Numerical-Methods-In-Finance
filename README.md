@@ -18,13 +18,15 @@ involve sampling from a joint multidimensional distribution of underlying assets
 
 ## References
 
-1. Jäckel, Peter. Monte Carlo methods in finance. (2002).
+1. Black, Fischer, (1976), The pricing of commodity contracts, *Journal of Financial Economics*, 3, issue 1-2, p. 167-179.
+
+2. Jäckel, Peter. Monte Carlo methods in finance. (2002).
    
-2. Jäckel, Peter. Clamping Down on Arbitrage. *Wilmott* 2014: 54–69.
+3. Jäckel, Peter. Clamping Down on Arbitrage. *Wilmott* 2014: 54–69.
 
-3. Delbourgo, Robert and J. A. Gregory. Shape Preserving Piecewise Rational Interpolation. *Siam Journal on Scientific and Statistical Computing* 6 (1985): 967-976.
+4. Delbourgo, Robert and J. A. Gregory. Shape Preserving Piecewise Rational Interpolation. *Siam Journal on Scientific and Statistical Computing* 6 (1985): 967-976.
 
-4. Богачев, К. Практикум на ЭВМ. Методы решения линейных систем и нахождения собственных значений. (1998)
+5. Богачев, К. Практикум на ЭВМ. Методы решения линейных систем и нахождения собственных значений. (1998)
 
 
 ## Setup
