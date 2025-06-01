@@ -16,6 +16,10 @@ Positive (semi-)definiteness of the correlation matrix is a vital condition for 
 may vioalate this condition. Hence, the problem of reducing a correlation matrix to a positive-definite matrix close to the original one arises. Secondly, multi-dimensional Monte-Carlo simulations 
 involve sampling from a joint multidimensional distribution of underlying assets with given marginals. For that reason, gaussian copulae are used. 
 
+**Seminar 3.ipynb**
+
+Pricing of European style derivatives commonly boils down to numerically solving a heat type PDE. The key issue is the choice of a numerical scheme, taking into account its convergence and stability characteristics toghether with a correct handling of boundary conditions. 
+
 ## References
 
 1. Black, Fischer, (1976), The pricing of commodity contracts, *Journal of Financial Economics*, 3, issue 1-2, p. 167-179.
